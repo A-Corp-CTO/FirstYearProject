@@ -1,0 +1,94 @@
+commit 842bd4afb104d388c991da8ea0e2d79fe8f276f2
+Author: Agnieszka <akujawsak@o2.pl>
+Date:   Tue Feb 1 13:49:16 2022 +0100
+
+    I am so awesome
+
+commit 12a0a92074a6c8b0f14d20384bfd33cc154f8930
+Author: msro <msro@itu.dk>
+Date:   Tue Feb 1 13:44:23 2022 +0100
+
+    umm nothing
+
+commit 80bd9b43e62c08d850d63edb87aa315212943d96
+Merge: 8cf2cb3 ce9e4c5
+Author: Mathis Gravil <mvgr@itu.dk>
+Date:   Tue Feb 1 13:42:17 2022 +0100
+
+    Merge branch 'main' of https://github.itu.dk/mvgr/FYP-Group-C
+
+commit 8cf2cb3656e7f94ff1d76e8e2e12a148d432a8c8
+Merge: 64347b6 e425200
+Author: Mathis Gravil <mvgr@itu.dk>
+Date:   Tue Feb 1 13:39:09 2022 +0100
+
+    Merge branch 'main' of https://github.itu.dk/mvgr/FYP-Group-C
+
+commit ce9e4c5a13350d769ce6856294c03aa3b44bff16
+Author: Sneha Shrestha <snsh@itu.dk>
+Date:   Tue Feb 1 13:39:05 2022 +0100
+
+    Update newfile.md
+
+commit e425200732f86a56944fb39d2c20c1950fe3ebd6
+Author: msro <msro@itu.dk>
+Date:   Tue Feb 1 13:32:22 2022 +0100
+
+    its my own file! from nothing!
+
+commit 64347b6a31e9125a7587d03010e467fdd68b3357
+Merge: b939e4b facf6fc
+Author: Mathis Gravil <mvgr@itu.dk>
+Date:   Tue Feb 1 13:32:05 2022 +0100
+
+    Merge branch 'main' of https://github.itu.dk/mvgr/FYP-Group-C
+
+commit facf6fc8adcfcd0a8f4fac515a702c160290a09f
+Merge: 34e0972 02b16f2
+Author: msro <msro@itu.dk>
+Date:   Tue Feb 1 13:31:06 2022 +0100
+
+    added and changed a file
+
+commit b939e4bd39a22c720b52782cf5a7fa6c0a366954
+Merge: d556be6 02b16f2
+Author: Mathis Gravil <mvgr@itu.dk>
+Date:   Tue Feb 1 13:29:25 2022 +0100
+
+    Merge branch 'main' of https://github.itu.dk/mvgr/FYP-Group-C
+
+commit d556be6adbb2051811bc6686156a598d9567e50a
+Author: Mathis Gravil <mvgr@itu.dk>
+Date:   Tue Feb 1 13:29:14 2022 +0100
+
+    im modifying
+
+commit 34e0972a89acb99590dd46c52d7d6fccfe8f082b
+Author: msro <msro@itu.dk>
+Date:   Tue Feb 1 13:28:39 2022 +0100
+
+    added and modified a file
+
+commit 02b16f29d0b0a5866df3f0f1221152830b7e65ad
+Author: root <root@LAPTOP-80HLCNAG.localdomain>
+Date:   Tue Feb 1 13:27:15 2022 +0100
+
+    Hey guys I made some awesome changes
+
+commit 15723f8918521e5fd9be6c607859f291cadeca3a
+Author: Mathis Gravil <mvgr@itu.dk>
+Date:   Tue Feb 1 13:19:13 2022 +0100
+
+    test
+
+commit c57365be08e37d94858d725256a0cd01e7c9ec79
+Author: root <root@LAPTOP-80HLCNAG.localdomain>
+Date:   Tue Feb 1 12:59:56 2022 +0100
+
+    sneha
+
+commit f84248f96c85a6d007e722e3c842671b9c667a9a
+Author: Mathis Valentin Gravil <mvgr@itu.dk>
+Date:   Tue Feb 1 12:16:33 2022 +0100
+
+    Create README.md
